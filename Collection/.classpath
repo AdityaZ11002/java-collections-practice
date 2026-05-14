@@ -6,7 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="Collection"/>
 	<classpathentry kind="src" path="ArrayList"/>
 	<classpathentry kind="src" path="LinkedList"/>
 	<classpathentry kind="src" path="Queue"/>
